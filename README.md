@@ -1,4 +1,6 @@
+CYBERSECURITY PROFESSIONAL CERTIFICATE : 
 ![certifcate](https://github.com/user-attachments/assets/8bb8a3ca-a39f-4163-9266-4069fa531e8e)
+
 This repo holds all of the projects, notes, and write-ups I have done while completing the Google Cybersecurity Professional Certificate. 
 You can view my certificate of completion on Credly https://www.credly.com/badges/6da23926-d9c0-4200-8823-db9a757589fc or Coursera https://coursera.org/share/56324e4dee75c9d953e431d7c772e919.
 .
